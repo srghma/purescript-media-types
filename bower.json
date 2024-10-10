@@ -15,9 +15,5 @@
     "test",
     "bower.json",
     "package.json"
-  ],
-  "dependencies": {
-    "purescript-newtype": "^5.0.0",
-    "purescript-prelude": "^6.0.0"
-  }
+  ]
 }
