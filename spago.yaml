@@ -15,7 +15,4 @@ package:
     dependencies:
       - console
       - effect
-workspace:
-  extraPackages: {}
-  packageSet:
-    registry: 60.5.0
+workspace: {}
